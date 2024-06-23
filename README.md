@@ -1,3 +1,4 @@
+![logo](https://github.com/ritiksahu91/ritiksahu91/blob/main/Screenshot%20(196).png)
 <h1 align="center">Hi 👋, I'm Ritik sahu</h1>
 <h3 align="center">A passionate frontend developer and data analyst from India</h3>
 <img align="right" alt="my coding picture" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
